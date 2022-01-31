@@ -1,0 +1,1 @@
+When making a comment on a post, assign a commentId, so can then change deleteComment functionality to only delete that certain comment, atm it deletes all comments made by that user
